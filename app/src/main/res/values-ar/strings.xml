@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="student_portal">بوابة الطالب</string>
+    <string name="css"><a href="https://www.wise.edu.jo/wp-content/uploads/2021/09/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8.pdf">الخطة الدراسية</a></string>
+    <string name="se">"<a href="https://drive.google.com/file/d/19VgEDz6X3vVwWOaI2f5KxBgnoMZ_U6R2/view?usp=sharing">الخطة الدراسية</a> "</string>
+    <string name="welcome_wise_university">أهلاً وسهلاً في جامعة العلوم الإسلامية العالمية</string>
+    <string name="Software_Engineering">هندسة برمجيات</string>
+    <string name="Computer_Science">علم حاسوب</string>
+    <string name="information_systems_and_networks">نظم المعلومات والشبكات</string>
+    <string name="Staff">الهيئة التدريسية</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="menu_gallery">معرض الصور</string>
+    <string name="menu_home">الشاشة الرئيسية</string>
+    <string name="faculty_of_information_techncology">كلية تكنلوجيا المعلومات</string>
+    <string name="cn"><a href="https://www.wise.edu.jo/wp-content/uploads/2021/09/%D9%86%D8%B8%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA.pdf">الهيئة التدريسية </a></string>
+    <string name="departments">الأقسام</string>
+    <string name="FacilityFinanceandBusiness">كلية المال والاعمال</string>
+    <string name="FacilityDawah">كلية الدعوة و أصول الدين</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="register">التسجيل</string>
+    <string name="register_page">صفحة التسجيل</string>
+    <string name="student_email">"بريد الإلكتروني "</string>
+    <string name="student_password">كلمة المرور</string>
+    <string name="student_name">الأسم</string>
+    <string name="student_id">الرقم الجامعي</string>
+    <string name="back_to_login">"الرجوع "</string>
+    <string name="sn"><a href="https://www.wise.edu.jo/wp-content/uploads/2021/09/%D8%A3%D9%85%D9%86-%D9%88%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA.pdf">الهيئة التدريسية</a></string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="security_and_confidentiality_of_information_and_networks">"أمن وسرية المعلومات "</string>
+    <string name="start">تسعى جامعة العلوم الإسلامية العالمية إلى الجمع بين المعرفة والفضيلة المرتكزة على الإيمان والحكمة، بحيث تكون جامعة إسلامية عصرية شاملة ورائدة في منهجيتها وخططها الدراسية لتتميز كواحدة من أرقى الجامعات على المستويات العربية والإقليمية والإسلامية والعالمية. وتهدف الجامعة إلى تزويد العالمين العربي والإسلامي بمختصين قادرين على إبراز الصورة المشرقة للإسلام والمسلمين في كل ما يتصل بالعقيدة والشريعة والعلوم والفكر والحضارة والفنون والعمارة الإسلامية اسهاما منها في المشروع الحضاري الإسلامي .</string>
+    <string name="library">المكتبة</string>
+    <string name="Elearning">التعليم الإلكتروني</string>
+    <string name="Studentschedule">جدول الطالب</string>
+    <string name="TeacherEvaluation">تقييم المدرسين</string>
+    <string name="Registration">التسجيل</string>
+    <string name="StudentGuide">دليل الطالب</string>
+    <string name="SelfRegistration">التسجيل الذاتي</string>
+    <string name="RegulationsAndInstructions">الأنظمة والتعليمات</string>
+    <string name="graduatePortal">بوابة الخريجين</string>
+    <string name="UniversityCalendar">التقويم الجامعي</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="the_world_islamic_sience_and_education_university">جامعة العلوم الإسلامية العالمية</string>
+    <string name="you_welcome">اهلاً وسهلاً</string>
+    <string name="Teacher">مدرس المادة</string>
+    <string name="SubjectName">إسم المادة</string>
+    <string name="Subjectnumber">رقم المادة</string>
+    <string name="Note1">* ملاحظة : عند الضغط على تثبيت الجدول ؛ سوف يحفظ الجدول الخاص بك في صفحة جدول الطالب في الصفحة السابقة .</string>
+    <string name="Note2">* ملاحظة : إذا أردت أن تحذف مادة و تضيف مادة أخرى يجب عليك إعادة إختيار الجدول كاملا مع العلم أن جدولك السابق سوف يحذف و يضاف الجدول الجديد فقط .</string>
+    <string name="install">تثبيت الجدول</string>
+    <string name="delete">حذف الجدول</string>
+    <string name="studentPage">بوابة الطالب</string>
+    <string name="stu_info">معلومات الطالب</string>
+    <string name="Draganddrop">السحب و الإضافة</string>
+    <string name="dropmat">إسقاط المواد</string>
+    <string name="std_table">جدول الطالب</string>
+    <string name="app_name">بوابة الطالب</string>
+    <string name="colleges">الكليات</string>
+    <string name="student_page">صفحة الطالب</string>
+    <string name="pictures">معرض الصور</string>
+    <string name="aboutus">نبذة عنا</string>
+    <string name="Noh">كلية الشيخ نوح القضاة لشريعة والقانون</string>
+    <string name="delete_information">حذف المعلومات</string>
+    <string name="student_information">المعلومات</string>
+    <string name="delete_courses">حذف مواد</string>
+    <string name="add_courses">إضافة مواد</string>
+    <string name="drop_courses">إسقاط مواد</string>
+    <string name="faculty_of_islamic_arts_and_architecture">كلية الفنون و العمارة الإسلامية</string>
+    <string name="faculty_al_shafi_i_fiqh">كلية الفقه الشافعي</string>
+    <string name="faculty_of_literature_and_sciences">كلية الآداب و العلوم</string>
+    <string name="faculty_of_educational_sciences">كلية العلوم التربوية</string>
+    <string name="faculty_of_hanafi_fiqh">كلية الفقه الحنفي</string>
+    <string name="faculty_of_fiqh_al_maliki">كلية الفقه المالكي</string>
+    <string name="Services">أهم الخدمات التي تقدمها الجامعة للطلبة</string>
+    <string name="notice">الملاحظات</string>
+</resources>

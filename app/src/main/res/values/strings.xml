@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">Student Portal</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="nav_header_title" translatable="false">Student Portal</string>
+
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_gallery">Gallery</string>
+
+    <string name="menu_slideshow" translatable="false">Slideshow</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="css">
+
+<a href="https://www.wise.edu.jo/wp-content/uploads/2021/09/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8.pdf">Study Plan</a>
+
+</string>
+
+    <string name="faculty_of_information_techncology">Faculty of Information Technology</string>
+
+    <string name="Staff">Staff</string>
+
+    <string name="information_systems_and_networks">Information Systems and Networks</string>
+
+    <string name="Computer_Science">Computer Science</string>
+
+    <string name="Software_Engineering">Software Engineering</string>
+
+    <string name="welcome_wise_university">WELCOME WISE UNIVERSITY</string>
+
+    <string name="wise" translatable="false">wise</string>
+
+
+    -
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <item name="colorPrimary">@color/design_default_color_primary</item>
+
+        <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+
+        <item name="colorAccent">@color/teal_700</item>
+
+    </style>
+
+    <string name="menu_home">Home</string>
+
+    <string name="student_portal">Student Portal</string>
+
+
+    -
+    <string name="cn">
+
+<a href="https://www.wise.edu.jo/wp-content/uploads/2021/09/%D9%86%D8%B8%D9%85-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA.pdf">Study Plan </a>
+
+</string>
+
+
+    -
+    <string name="se">
+
+<a href="https://drive.google.com/file/d/19VgEDz6X3vVwWOaI2f5KxBgnoMZ_U6R2/view?usp=sharing">Study Plan</a>
+
+</string>
+
+    <string name="departments">Departments</string>
+
+    <string name="login">Login</string>
+
+    <string name="email">Email</string>
+
+    <string name="password">Password</string>
+
+    <string name="forget_password">Forget Password ?</string>
+
+    <string name="register">Register</string>
+
+    <string name="register_page">Register Page</string>
+
+    <string name="student_email">Email</string>
+
+    <string name="student_password">Password</string>
+
+    <string name="student_name">Name</string>
+
+    <string name="student_id">ID Number</string>
+
+    <string name="back_to_login">Back</string>
+
+
+    -
+    <string name="sn">
+
+<a href="https://www.wise.edu.jo/wp-content/uploads/2021/09/%D8%A3%D9%85%D9%86-%D9%88%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA.pdf">Study Plan</a>
+
+</string>
+
+    <string name="FacilityFinanceandBusiness">Facility Finance and Business</string>
+
+    <string name="FacilityDawah">Facility Da`wah and Fundamentals of Religion</string>
+
+    <string name="security_and_confidentiality_of_information_and_networks">Security of information</string>
+
+    <string name="start">The International University of Islamic Sciences seeks to combine knowledge and virtue based on faith and wisdom, so that it is a modern, comprehensive and pioneering Islamic university in its methodology and study plans to be distinguished as one of the most prestigious universities at the Arab, regional, Islamic and international levels. The university aims to provide the Arab and Islamic worlds with specialists capable of highlighting the bright image of Islam and Muslims in everything related to faith, Sharia, science, thought, civilization, arts and Islamic architecture, as a contribution to the Islamic civilizational project.</string>
+
+    <string name="library">library</string>
+
+    <string name="Studentschedule">Student schedule</string>
+
+    <string name="Elearning">E-Learning</string>
+
+    <string name="TeacherEvaluation">Teacher Evaluation</string>
+
+    <string name="Registration">Registration</string>
+
+    <string name="StudentGuide">Student Guide</string>
+
+    <string name="SelfRegistration">Self Registration</string>
+
+    <string name="RegulationsAndInstructions">Regulations and instructions</string>
+
+    <string name="graduatePortal">Graduate Portal</string>
+
+    <string name="UniversityCalendar">University Calendar</string>
+
+    <string name="logout">LOG OUT</string>
+
+    <string name="the_world_islamic_sience_and_education_university">The World Islamic Sience and Education University</string>
+
+    <string name="you_welcome">You Welcome</string>
+
+    <string name="Teacher">Teacher</string>
+
+    <string name="SubjectName">Subject Name</string>
+
+    <string name="Subjectnumber">Subject Number</string>
+
+    <string name="Note1">* Note: When pressing install table; Student schedule on the previous page.</string>
+
+    <string name="Note2">* Note: If you want to delete an article and add another, you must re-select the entire schedule, knowing that your previous schedule will be deleted and only the new schedule will be added.</string>
+
+    <string name="install">install table</string>
+
+    <string name="delete">delete table</string>
+
+    <string name="studentPage">Student Page</string>
+
+    <string name="stu_info">student Information</string>
+
+    <string name="dropmat">Drop material</string>
+
+    <string name="std_table">Student Table</string>
+
+    <string name="colleges">Facilities</string>
+
+    <string name="student_page">Student Page</string>
+
+    <string name="pictures">Pictures</string>
+
+    <string name="aboutus">About Us</string>
+
+    <string name="delete_information">Delete Information</string>
+
+    <string name="student_information">Information</string>
+
+    <string name="delete_courses">Delete courses</string>
+
+    <string name="add_courses">Add courses</string>
+
+    <string name="drop_courses">Drop Courses</string>
+
+    <string name="faculty_of_educational_sciences">Faculty of Educational Sciences</string>
+
+    <string name="faculty_of_literature_and_sciences">Faculty of Literature and Sciences</string>
+
+    <string name="faculty_al_shafi_i_fiqh">Faculty Al-Shafi’i Fiqh</string>
+
+    <string name="faculty_of_islamic_arts_and_architecture">Faculty of Islamic Arts and Architecture</string>
+
+    <string name="faculty_of_fiqh_al_maliki">Faculty of Fiqh Al-Maliki</string>
+
+    <string name="Noh">Sheikh Noah Al-Qudah Faculty of Sharia and Law</string>
+
+    <string name="faculty_of_hanafi_fiqh">Faculty of Hanafi Fiqh</string>
+
+    <string name="Services">The most important services that the university provides to students</string>
+
+    <string name="Draganddrop">Add and Drop</string>
+
+    <string name="notice">Notice</string>
+
+</resources>
